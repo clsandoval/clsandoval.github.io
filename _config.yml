@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Carlos Sandoval"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Sandoval"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Student"
   location         : "Manila, Philippines"
   employer         :
