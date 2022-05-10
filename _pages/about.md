@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-For more info
+Get in touch
 ------
 Email me at clsandoval@up.edu.ph
