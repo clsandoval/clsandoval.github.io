@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Get in touch
+About me
 ------
-Email me at clsandoval@up.edu.ph
+Currently an undergraduate student studying computer science at the University of the Philippines Diliman

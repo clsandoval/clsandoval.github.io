@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Sandoval"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Carlos Sandoval"
 description              : &description "personal description"
 url                      : https://clsandoval.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Carlos Sandoval"
   avatar           : "profile.png"
-  bio              : "Student"
+  bio              : "Student "
   location         : "Manila, Philippines"
   employer         :
   pubmed           : 
