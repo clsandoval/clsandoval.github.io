@@ -7,6 +7,6 @@ collection: portfolio
 A demo of the pipeline is located [here](https://huggingface.co/spaces/leakyrelu/MobilenetV2SSDLite_LPRnet)
 
 ## Pipeline
-The pipeline uses the two-stage detection and recognition pipeline described in this [paper](https://huggingface.co/spaces/leakyrelu/MobilenetV2SSDLite_LPRnet)
+The pipeline uses the two-stage detection and recognition pipeline described in this [paper](https://ieeexplore.ieee.org/document/9071863)
 
 
