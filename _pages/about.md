@@ -17,4 +17,4 @@ Currently an undergraduate student studying computer science at the University o
 - The Gone World by Tom Sweterlitsch
 
 
-![judo](images/judo2.png)
+![judo](images/judo2.png) ![judoteam](images/team.png)
