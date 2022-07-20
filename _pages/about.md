@@ -11,5 +11,5 @@ redirect_from:
 
 ### About me
 
-Currently an undergraduate student studying computer science at the University of the Philippines Diliman. I am currently part of the UP's Judo Team and have received two UAAP medals. I spend most of my free time reading science fiction novels.
+Currently an undergraduate student studying computer science at the University of the Philippines Diliman. I am currently part of the UP Judo Team and have received two UAAP medals. I spend most of my free time reading science fiction novels.
 
