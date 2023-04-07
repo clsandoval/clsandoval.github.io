@@ -1,5 +1,5 @@
 ---
-title: "Automatic Licence Plate Recognition"
-excerpt: "Licence plate detection and recognition with Mobilenetv2-SSDFPNLite + LPRnet<br/><img src='/images/alpr-system.PNG'>"
+title: "Enabling Real-Time License Plate Recognition with Edge-Cloud Computing"
+excerpt: "A framework for real time license plate recognition with edge-cloud computing"
 collection: portfolio
 ---
