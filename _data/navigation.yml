@@ -1,7 +1,11 @@
-# main links links
 main:
+  - title: "About"
+    url: /about/
+  - title: "Work"  
+    url: /work/
+  - title: "Adventures"
+    url: /adventures/
+  - title: "Jiujitsu"
+    url: /jiujitsu/
   - title: "Projects"
     url: /projects/
-    
-  - title: "CV"
-    url: /files/cv.pdf

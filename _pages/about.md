@@ -1,15 +1,24 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
+permalink: /about/
+title: "About"
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
+Computer science student based in Manila, Philippines.
 
-### About me
+## Work
+Currently working on computer science projects and research. Published work available on [IEEE Xplore](https://ieeexplore.ieee.org/author/37089645213).
 
-Currently an undergraduate student studying computer science at the University of the Philippines Diliman. I am currently part of the UP Judo Team and have received two UAAP medals. I spend most of my free time reading science fiction novels.
+## Travel & Activities
+Regular diving trips around the Philippines, especially Siquijor. Learning snowboarding in Japan (Yuzawa, Nagano). Train jiujitsu when possible.
 
+## Recent Destinations
+- **2024-2025**: Multiple trips to Siquijor for diving, extended snowboarding in Japan
+- **2024**: Bohol (diving), Bolinao (diving), Tokyo, Bangkok, South Africa, France
+- **2023**: Bali, South Africa, Hanoi, Austin F1
+
+## Contact
+- Email: clsandoval@up.edu.ph
+- GitHub: [clsandoval](https://github.com/clsandoval)
+- IEEE: [Profile](https://ieeexplore.ieee.org/author/37089645213)
