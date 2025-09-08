@@ -1,6 +1,6 @@
 ---
 title: "Siquijor"
-excerpt: "Remote diving island in the Philippines"
+excerpt: "Island province south of Dumaguete, diving, beaches, conducive remote work atmosphere"
 layout: single
 permalink: /adventures/siquijor/
 redirect_from:

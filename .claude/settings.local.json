@@ -5,7 +5,8 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "WebSearch"
+      "WebSearch",
+      "mcp__gitingest-mcp__git_summary"
     ],
     "deny": [],
     "ask": []
