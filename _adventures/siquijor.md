@@ -39,7 +39,7 @@ Freediving, beach hopping, waterfalls. Rent a motorbike to explore the island an
 Food's okay but a little pricey. Good Thai at Aroi Makmak, good pizza at Dolci Amore. Cheap drinks along the beach in San Juan. Cheap breakfast at Mr Crepe.
 
 ## Working
-[How's the wifi? Where do you work from?]
+WiFi is so-so. I had mobile signal so mostly just used mobile data for most of it.
 
 ## Costs
 - Accommodation: ₱800/night
