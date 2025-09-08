@@ -5,18 +5,12 @@ author_profile: true
 
 Computer science, travel, diving, and snowboarding.
 
-## Recent Posts
-
-<div class="grid__wrapper">
-  {% for post in site.posts limit:6 %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
-</div>
-
 ## What I'm Up To
 
 - **Work**: Computer science projects and research
-- **Adventures**: Diving in Philippines, snowboarding in Japan
-- **Coding**: Personal projects and experiments
+- **Adventures**: Diving in Philippines, snowboarding in Japan  
+- **Current Projects**: 
+  - [Philippine Civil Code Will Validation System](/projects/philippine-civil-code-will-validator/) - AI-powered legal document analysis tool
+  - Exploring legal tech applications and succession law automation
 
 [About Me](/about/) | [Work](/work/) | [Adventures](/adventures/) | [Projects](/projects/)

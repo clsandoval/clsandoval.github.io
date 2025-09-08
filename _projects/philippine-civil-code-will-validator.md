@@ -4,6 +4,8 @@ excerpt: "AI-powered legal document analysis tool for validating wills according
 date: 2024-12-01
 tags: [python, ai, legal-tech, flask, pdf-processing, openai]
 github: "https://github.com/clsandoval/succession-tool"
+layout: single
+author_profile: true
 ---
 
 ## Project Overview
