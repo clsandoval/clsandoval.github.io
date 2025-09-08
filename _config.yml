@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carlos Sandoval"
 title_separator          : "-"
 name                     : &name "Carlos Sandoval"
-description              : &description "Computer science, travel, diving, snowboarding, and jiujitsu"
+description              : &description "Computer science, travel, diving, and snowboarding"
 url                      : https://clsandoval.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clsandoval/clsandoval.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Sandoval"
-  avatar           : "profile.png"
-  bio              : "Computer science, travel, diving, snowboarding, jiujitsu"
+  avatar           : "profile.jpg"
+  bio              : "Computer science, travel, diving, and snowboarding"
   location         : "Manila, Philippines"
   employer         :
   pubmed           : 
@@ -179,9 +179,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   adventures:
-    output: true
-    permalink: /:collection/:path/
-  jiujitsu:
     output: true
     permalink: /:collection/:path/
   projects:

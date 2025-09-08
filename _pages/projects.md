@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: collection
+layout: archive
 collection: projects
 entries_layout: grid  
 ---

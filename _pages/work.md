@@ -1,7 +1,7 @@
 ---
 title: "Work"
 permalink: /work/
-layout: collection
+layout: archive
 collection: work
 entries_layout: grid
 ---

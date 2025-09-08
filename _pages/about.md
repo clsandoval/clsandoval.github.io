@@ -11,7 +11,7 @@ Computer science student based in Manila, Philippines.
 Currently working on computer science projects and research. Published work available on [IEEE Xplore](https://ieeexplore.ieee.org/author/37089645213).
 
 ## Travel & Activities
-Regular diving trips around the Philippines, especially Siquijor. Learning snowboarding in Japan (Yuzawa, Nagano). Train jiujitsu when possible.
+Regular diving trips around the Philippines, especially Siquijor. Learning snowboarding in Japan (Yuzawa, Nagano).
 
 ## Recent Destinations
 - **2024-2025**: Multiple trips to Siquijor for diving, extended snowboarding in Japan

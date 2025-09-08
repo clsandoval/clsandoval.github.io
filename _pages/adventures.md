@@ -1,7 +1,7 @@
 ---
 title: "Adventures"
 permalink: /adventures/
-layout: collection  
+layout: archive  
 collection: adventures
 entries_layout: grid
 ---
