@@ -16,19 +16,27 @@ Manila to Dumaguete (1.5 hour flight), then ferry to Siquijor (1 hour). Book the
 ## Where to Stay
 **Lapyahan Guesthouse** - ₱800/night, beachfront, AC, budget but clean. Good value.
 
+**Residencia Gemma** - ₱1,500/night for two, ₱3,000 gets you the whole place with your own kitchen. Catacugan side, 15 mins from San Juan. Quiet and relaxed.
+
 ## Diving
 **Apo Divers Resort** - around ₱1,500 per dive. Water's usually crystal clear. Turtles everywhere. Also tons of nudibranchs, lionfish, scorpion fish, lobster, crabs, shrimp.
 
 **Best sites:**
-- Paliton Wall - really nice
+- Paliton Wall - 1km long wall off the shore of Paliton
+- Paliton Sanctuary - frequent octopus sightings
 - Salagdoong Wall - reef sharks
 - Tubod Marine Sanctuary - healthy coral
 - Kagusuan Beach - easy shore dive
+- Sawang Point - not well known spot for giant turtles, schools of squid, amazing visibility and calm waters. Amazing night dives where I saw a relative of the Spanish dancer
 
 Water temp around 28°C. Morning dives have better visibility.
 
 ## Other Stuff
 Freediving, beach hopping, waterfalls. Rent a motorbike to explore the island and mountains.
+
+**Freediving/snorkeling spots:**
+- All marine sanctuaries
+- Sawang Point - giant turtles, schools of squid, amazing visibility and calm waters
 
 ## Food
 Food's okay but a little pricey. Good Thai at Aroi Makmak, good pizza at Dolci Amore. Cheap drinks along the beach in San Juan. Cheap breakfast at Mr Crepe.
