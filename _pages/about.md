@@ -13,11 +13,6 @@ Currently working on computer science projects and research. Published work avai
 ## Travel & Activities
 Regular diving trips around the Philippines, especially Siquijor. Learning snowboarding in Japan (Yuzawa, Nagano).
 
-## Recent Destinations
-- **2024-2025**: Multiple trips to Siquijor for diving, extended snowboarding in Japan
-- **2024**: Bohol (diving), Bolinao (diving), Tokyo, Bangkok, South Africa, France
-- **2023**: Bali, South Africa, Hanoi, Austin F1
-
 ## Contact
 - Email: clsandoval@up.edu.ph
 - GitHub: [clsandoval](https://github.com/clsandoval)
