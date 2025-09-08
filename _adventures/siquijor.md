@@ -1,6 +1,7 @@
 ---
 title: "Siquijor"
 excerpt: "Remote diving island in the Philippines"
+layout: single
 tags: [diving, philippines, remote-work]
 ---
 
