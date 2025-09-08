@@ -2,9 +2,9 @@
 title: "Siquijor"
 excerpt: "Remote diving island in the Philippines"
 layout: single
-permalink: /adventures/siquijor-diving-2024/
+permalink: /adventures/siquijor/
 redirect_from:
-  - /adventures/siquijor/
+  - /adventures/siquijor-diving-2024/
 tags: [diving, philippines, remote-work]
 ---
 
