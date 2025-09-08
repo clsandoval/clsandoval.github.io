@@ -3,6 +3,7 @@ title: "Shimanami Kaido"
 excerpt: "Cycling the island-hopping route between Hiroshima and Ehime"
 date: 2024-11-15
 layout: single
+permalink: /adventures/shimanami-kaido/
 tags: [cycling, japan, islands, bridges]
 ---
 
