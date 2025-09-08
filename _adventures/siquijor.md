@@ -24,9 +24,6 @@ Manila to Dumaguete (1.5 hour flight), then ferry to Siquijor (1 hour). Book the
 **Best sites:**
 - Paliton Wall - 1km long wall off the shore of Paliton
 - Paliton Sanctuary - frequent octopus sightings
-- Salagdoong Wall - reef sharks
-- Tubod Marine Sanctuary - healthy coral
-- Kagusuan Beach - easy shore dive
 - Sawang Point - not well known spot for giant turtles, schools of squid, amazing visibility and calm waters. Amazing night dives where I saw a relative of the Spanish dancer
 
 Water temp around 28°C. Morning dives have better visibility.
