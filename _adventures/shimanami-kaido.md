@@ -4,34 +4,39 @@ excerpt: "Cycling the island-hopping route between Hiroshima and Ehime"
 date: 2024-11-15
 layout: single
 permalink: /adventures/shimanami-kaido/
-tags: [cycling, japan, islands, bridges]
 ---
 
-The Shimanami Kaido is a 70km cycling route connecting Honshu and Shikoku islands via a series of bridges through the Seto Inland Sea. One of Japan's most scenic cycling experiences.
+5-day bike trip from Onomichi to Imabari, hopping across 10 islands via suspension bridges. Did this solo in October - perfect weather, empty roads, lots of time to think. Way better than rushing it in one day.
 
-## Route Overview
-Onomichi (Hiroshima) to Imabari (Ehime) - 6 islands connected by spectacular suspension bridges with dedicated cycling paths.
+## Getting There
+Fly into Hiroshima, take local train to Onomichi (1 hour). Hit the art gallery with the view first - sets the tone for what you're about to see from 60 meters up on bridges.
 
-## Islands and Stops
-- **Mukaishima** - First island, gentle introduction to the route
-- **Innoshima** - Hassaku citrus farms and Shimanami village
-- **Ikuchijima** - Art island with Hirayama Ikuo Museum
-- **Omishima** - Oyamazumi Shrine, Japan's oldest shrine to sea and mountain gods
-- **Hakatajima** - Salt fields and traditional industry
-- **Oshima** - Final island before reaching Shikoku
+## My Route (5 Days)
+**Day 1: Onomichi → Mukaishima → Innoshima** - Easy warm-up islands. Citrus farms everywhere on Innoshima. Try the hassaku oranges - huge and perfectly bittersweet.
 
-## Logistics
-**Bike rental**: Available at multiple locations including Onomichi Station. Electric bikes recommended for bridges.
+**Day 2: Yuge → Ikina → Iwagi Islands** - The forgotten gems. Observation decks with nobody around, local food spots that don't see tourists. Iwagi has amazing views back toward the mainland.
 
-**Distance**: 70km total, can be done in one day but better spread over 2-3 days with island stops.
+**Day 3: Ikuchijima** - Art island. Sculptures scattered around, good museums, but honestly the coastline views are better than the indoor exhibits.
 
-**Best time**: Spring (cherry blossoms) or fall (clear weather). Avoid summer heat and humidity.
+**Day 4: Omishima** - Ancient Oyamazumi Shrine, Spent hours at the fishing park beside WAKKA trying to catch the legendary seaperch.
 
-## Highlights
-- Cycling across massive suspension bridges with ocean views
-- Island-hopping through traditional Japanese fishing communities  
-- Fresh seafood and local citrus at roadside stops
-- Views of the Seto Inland Sea archipelago from bridge heights
-- Peaceful rural Japan away from major tourist routes
+**Day 5: Hakatajima → Oshima → Imabari** - Final push to Shikoku. Oshima lighthouse has panoramic views of everything you just crossed. Ended in Imabari and biked around town - surprisingly good local food scene.
 
-The route showcases Japan's engineering prowess and natural beauty - cycling infrastructure that makes island-hopping accessible while preserving the character of traditional fishing communities.
+## What Makes It Special
+The bridges are incredible - cycling 60 meters above blue water with islands stretching to the horizon. Early morning fog lifting off the sea while you're suspended in mid-air.
+
+But taking 5 days lets you find the quiet spots. Observation decks with no crowds, tiny fishing villages, local food that's not in guidebooks. Each island has completely different energy despite being connected.
+
+## Practical Stuff
+**Accommodation**: 1 night in Onomichi (start), 1 night in Imabari (end), 3 nights spread across islands. Ryokans and minshuku everywhere.
+
+**Food**: Every island has local specialties. Best meals were always at tiny places recommended by whoever rented me the bike.
+
+**When**: October/November for clear weather and fall colors. Summer is brutal.
+
+**Cost**: Bike rental ¥2000/day, accommodation ¥4000-8000/night, food ¥2500/day
+
+## Tips
+Don't rush this. The whole point is slowing down. Pack layers - cold on bridges, warm once you start cycling. Hit observation decks early morning or late afternoon for best light.
+
+Route marked with blue lines painted on road. Just follow the blue and stop whenever something looks interesting.
