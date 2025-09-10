@@ -36,6 +36,30 @@ The bot evolved through several iterations:
 
 The current system processes thousands of matches daily to find the most entertaining ones. It's a six-stage pipeline that narrows down matches from the full pool to the ~5% worth watching:
 
+```mermaid
+flowchart TD
+    A[OpenDota API] --> B[Data Collection]
+    B --> C{Entertainment<br/>Filtering}
+    C --> D[Rank Verification<br/>via Stratz API]
+    D --> E[Content Summary<br/>Generation]
+    E --> F[Discord Bot<br/>Posting]
+    F --> G[Interactive /ask<br/>Commands]
+    
+    C --> H[Filter Out<br/>95% of matches]
+    H --> I[Rejected:<br/>Too short, low kills,<br/>leavers, smurfs]
+    
+    B --> J[Match Details:<br/>• Final scores<br/>• Item builds<br/>• Player ranks<br/>• Game duration]
+    
+    D --> K[Herald Verification:<br/>• Real rank check<br/>• No smurf accounts<br/>• Authentic gameplay]
+    
+    E --> L[Generated Content:<br/>• Match highlights<br/>• Unusual builds<br/>• Throwing moments<br/>• Context summaries]
+    
+    style C fill:#ff9999
+    style H fill:#ffcccc
+    style F fill:#99ccff
+    style G fill:#99ff99
+```
+
 **Data Collection**: The bot pulls recent Herald matches and enriches them with detailed game statistics—final scores, item builds, skill builds, and verified player ranks.
 
 **Entertainment Filtering**: This is where interesting matches get identified. The system looks for:
